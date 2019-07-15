@@ -1,9 +1,9 @@
 # graphql-server
 
 
-1. to start the project:
- one time setup:
-  run below commands from project root directory:
+## To start the project:
+
+  Run below commands from project root directory:
   1. `npm install`  this will install all required dependencies
   2. `npm start`  this will start the project on `http://localhost:8000/graphql`
   
